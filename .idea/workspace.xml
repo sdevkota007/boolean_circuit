@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a1915fa-6bf2-4a24-a44c-1ca37120b1cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/create_table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dijkstra.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen_truth_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/gen_truth_table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inputs.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/EXTRA1.bool.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/EXTRA2.bool.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/test1.bool.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/test2.bool.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/test3.bool.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/test4.bool.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputs/test5.bool.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trial1.py" beforeDir="false" />
-    </list>
+    <list default="true" id="1a1915fa-6bf2-4a24-a44c-1ca37120b1cc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,11 +149,6 @@
             <path>
               <item name="boolean_circuit" type="b2602c69:ProjectViewProjectNode" />
               <item name="boolean_circuit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="boolean_circuit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="boolean_circuit" type="462c0819:PsiDirectoryNode" />
-              <item name="outputs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -447,13 +426,6 @@
     <entry file="file://$PROJECT_DIR$/trial1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/gen_circuit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inputs/compute2.cir">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -511,6 +483,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen_circuit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
